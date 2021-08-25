@@ -1,0 +1,8 @@
+.idea
+data
+static
+backend/english/__pycache__/
+backend/words/__pycache__
+backend/images/
+backend/.env
+.env
